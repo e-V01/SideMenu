@@ -11,6 +11,7 @@
 		9E8A7CC42B59B14900351FA1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E8A7CC32B59B14900351FA1 /* ContentView.swift */; };
 		9E8A7CC62B59B14A00351FA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E8A7CC52B59B14A00351FA1 /* Assets.xcassets */; };
 		9E8A7CC92B59B14A00351FA1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E8A7CC82B59B14A00351FA1 /* Preview Assets.xcassets */; };
+		9E8A7CD02B59B99500351FA1 /* SideMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E8A7CCF2B59B99500351FA1 /* SideMenuView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		9E8A7CC32B59B14900351FA1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9E8A7CC52B59B14A00351FA1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E8A7CC82B59B14A00351FA1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9E8A7CCF2B59B99500351FA1 /* SideMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				9E8A7CC32B59B14900351FA1 /* ContentView.swift */,
 				9E8A7CC52B59B14A00351FA1 /* Assets.xcassets */,
 				9E8A7CC72B59B14A00351FA1 /* Preview Content */,
+				9E8A7CCF2B59B99500351FA1 /* SideMenuView.swift */,
 			);
 			path = SideMenu;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E8A7CD02B59B99500351FA1 /* SideMenuView.swift in Sources */,
 				9E8A7CC42B59B14900351FA1 /* ContentView.swift in Sources */,
 				9E8A7CC22B59B14900351FA1 /* SideMenuApp.swift in Sources */,
 			);

@@ -19,6 +19,11 @@ struct SideMenuHeaderView: View {
                 .padding(.vertical)
             VStack(alignment: .leading, spacing: 6) {
                 Text("Yuriy K")
+                    .font(.subheadline)
+                
+                Text("Test@gmail.com")
+                    .font(.footnote)
+                    .tint(.gray)
             }
         }
     }

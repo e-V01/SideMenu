@@ -13,6 +13,8 @@
 		9E8A7CC92B59B14A00351FA1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E8A7CC82B59B14A00351FA1 /* Preview Assets.xcassets */; };
 		9E8A7CD02B59B99500351FA1 /* SideMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E8A7CCF2B59B99500351FA1 /* SideMenuView.swift */; };
 		9E8A7CD22B59BA9800351FA1 /* SideMenuHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E8A7CD12B59BA9800351FA1 /* SideMenuHeaderView.swift */; };
+		9E9EDFA22B5B055B004B8E02 /* SideMenuRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9EDFA12B5B055B004B8E02 /* SideMenuRowView.swift */; };
+		9E9EDFA42B5B05E7004B8E02 /* SideMenuOptionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9EDFA32B5B05E7004B8E02 /* SideMenuOptionModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		9E8A7CC82B59B14A00351FA1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9E8A7CCF2B59B99500351FA1 /* SideMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuView.swift; sourceTree = "<group>"; };
 		9E8A7CD12B59BA9800351FA1 /* SideMenuHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuHeaderView.swift; sourceTree = "<group>"; };
+		9E9EDFA12B5B055B004B8E02 /* SideMenuRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuRowView.swift; sourceTree = "<group>"; };
+		9E9EDFA32B5B05E7004B8E02 /* SideMenuOptionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuOptionModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				9E8A7CC72B59B14A00351FA1 /* Preview Content */,
 				9E8A7CCF2B59B99500351FA1 /* SideMenuView.swift */,
 				9E8A7CD12B59BA9800351FA1 /* SideMenuHeaderView.swift */,
+				9E9EDFA12B5B055B004B8E02 /* SideMenuRowView.swift */,
+				9E9EDFA32B5B05E7004B8E02 /* SideMenuOptionModel.swift */,
 			);
 			path = SideMenu;
 			sourceTree = "<group>";
@@ -145,6 +151,8 @@
 			files = (
 				9E8A7CD02B59B99500351FA1 /* SideMenuView.swift in Sources */,
 				9E8A7CD22B59BA9800351FA1 /* SideMenuHeaderView.swift in Sources */,
+				9E9EDFA42B5B05E7004B8E02 /* SideMenuOptionModel.swift in Sources */,
+				9E9EDFA22B5B055B004B8E02 /* SideMenuRowView.swift in Sources */,
 				9E8A7CC42B59B14900351FA1 /* ContentView.swift in Sources */,
 				9E8A7CC22B59B14900351FA1 /* SideMenuApp.swift in Sources */,
 			);
